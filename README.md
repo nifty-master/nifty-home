@@ -5,7 +5,8 @@
   src="birds.png" 
   width="455"
   height="127" /><br> 
-  
+  <p style="font-size:8px">(Figure taken from BirdGuides.com and green-feathers.com)</p><br>  
+
 <figure>
   <figcaption>Listen to 73 clips from the original bird calls of common chiffchaff:</figcaption>
   <audio controls src="true_comchi.wav">>
