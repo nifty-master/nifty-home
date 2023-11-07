@@ -1,6 +1,11 @@
  
 
-<h3>Comparing NIFTY and VAE in sound generation </h3>
+<h3>Comparing NIFTY and VAE in sound generation </h3><br>
+<img
+  src="birds.png" 
+  width="455"
+  height="127" /><br> 
+  
 <figure>
   <figcaption>Listen to 73 clips from the original bird calls of common chiffchaff:</figcaption>
   <audio controls src="true_comchi.wav">>
