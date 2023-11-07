@@ -26,7 +26,7 @@
     <a href="vae_comchi.wav"> Download audio </a>
   </audio>
 </figure> 
-Note that there are occasionally strong noises in the VAE generated calls, and some clips are unlike bird calls (e.g. the call at the 9th second).
+Note that there are occasionally strong noises in the VAE-generated calls, and some clips are unlike bird calls (e.g. the call at the 9th second).
 
 <h3>Subclusters in common chiffchaff </h3>
 
@@ -68,5 +68,13 @@ There are several clusters as shown in the dimension reduction data visualizatio
   <figcaption>Listen to the bird calls clips of common chiffchaff in subcluster 3</figcaption>
   <audio controls src="sub3.wav">>
     <a href="sub3.wav"> Download audio </a>
+  </audio>
+</figure> 
+
+
+<figure>
+  <figcaption>Listen to the bird calls clips of coal tit</figcaption>
+  <audio controls src="coatit.wav">>
+    <a href="coatit.wav"> Download audio </a>
   </audio>
 </figure> 
