@@ -70,8 +70,11 @@ There are several clusters as shown in the dimension reduction data visualizatio
     <a href="sub3.wav"> Download audio </a>
   </audio>
 </figure> 
-
-
+<br> 
+<img
+  src="coatit.png" 
+  width="100"
+  height="51" /><br>  
 <figure>
   <figcaption>Listen to the bird calls clips of coal tit</figcaption>
   <audio controls src="coatit.wav">>
